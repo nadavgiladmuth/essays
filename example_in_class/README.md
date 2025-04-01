@@ -56,7 +56,6 @@ Image controls are located in the top-left corner of the image and can be seen w
 Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image. The Image information popover includes the image title, description, attribution statement, and reuse rights.
 
 
-
 ## Chitwan National Park, Nepal
 
 .ve-map Q1075023 right
