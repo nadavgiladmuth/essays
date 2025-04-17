@@ -1,67 +1,93 @@
-# Example_in_class
-
-# Hello, Juncture
-
-This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
-
-## Aulacophora indica
-
-.ve-media wc:The_Bug_Peek.jpg right
-
-The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
-
-This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
-
-Image controls are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
-
-Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
-
-## Perereca-macaco 
-
-.ve-media wc:Perereca-macaco_-_Phyllomedusa_rohdei.jpg right
-
-This image depicts Perereca-macaco (previously Phyllomedusa rohdei) a species of frog in the family Hylidae with a purple and orange colouration in the inguinal region. In the picture, two males vie for a branch, one passing over the other. Photographed in the Atlantic Forest, Michelin Reserve, Igrapiúna, Bahia, Brazil.
-
-This image is hosted on [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/a/a7/Perereca-macaco_-_Phyllomedusa_rohdei.jpg) 
-
-Image controls are located in the top-left corner of the image and can be seen when hovering over the image. These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position. Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
-
-Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image. The Image information popover includes the image title, description, attribution statement, and reuse rights.
+# Butterflies of Delaware County: A Visual Essay
+This visual essay builds upon my [Data Essay](https://nadavgiladmuth.github.io/DataEssay/) project and highlights six butterfly species prevalent in Delaware County, Pennsylvania. 
 
 
-## Bubalus bubalis 
+#### Eastern Tiger Swallowtail (Papilio glaucus)
 
-.ve-media wc:Bubalus_bubalis_(water_buffalo)_bathing_in_a_rust-colored_pond_and_looking_at_viewer,_head_above_water,_Don_Det,_Laos.jpg right
+.ve-media wc:Eastern_Tiger_Swallowtail_(Papilio_glaucus)_(37577909806).jpg right
 
-This image depicts Bubalus bubalis (water buffalo) bathing in a rust-colored pond, and looking at the viewer, head above water, in Don Det, Si Phan Don, Laos. This species is often cooling itself in the water (or in the mud), when the weather is hot.
+Eastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger Swallowtail
 
-This image is hosted on [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/2/29/Bubalus_bubalis_%28water_buffalo%29_bathing_in_a_rust-colored_pond_and_looking_at_viewer%2C_head_above_water%2C_Don_Det%2C_Laos.jpg) 
-
-Image controls are located in the top-left corner of the image and can be seen when hovering over the image. These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position. Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
-
-Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image. The Image information popover includes the image title, description, attribution statement, and reuse rights.
+**Image:** [Eastern Tiger Swallowtail (Papilio glaucus)](https://commons.wikimedia.org/wiki/File:Eastern_Tiger_Swallowtail_(Papilio_glaucus)_(37577909806).jpg)  
+*© Dan Mullen, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
 
 
 
-## Hapalochlaena maculosa 
-
-.ve-media wc:Hapalochlaena_maculosa_top.jpg right
-
-This image depicts Hapalochlaena maculosa (Blue-ringed Octopus). Photographed by Mark Norman on December 31st, 2010
-
-This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hapalochlaena_maculosa_top.jpg) 
-
-Image controls are located in the top-left corner of the image and can be seen when hovering over the image. These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position. Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
-
-Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image. The Image information popover includes the image title, description, attribution statement, and reuse rights.
 
 
-## Chitwan National Park, Nepal
 
-.ve-map Q1075023 right
 
-The map is centered on the Chitwan National Park in Nepal, which is the location associated with the image above.  The Wikidata identifier for Chitwan National Park is `Q1075023`.  When a map location is specified using a Wikidata ID (or QID) Juncture can automatically retrieve the geographic coordinates for map centering.
+#### Monarch (*Danaus plexippus*)
 
-An alternative to using a Wikidata identifier for map positioning is to use regular latitude and longitude coordinates.  In that approach the QID would be replaced with the coordinates `27.5,84.333`, resulting in an identical map.
+.ve-media wc:Monarch_In_May.jpg right
 
-Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
+Monarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch Butterfly
+
+**Image:** [Monarch In May](https://commons.wikimedia.org/wiki/File:Monarch_In_May.jpg)  
+*© David Goehring, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
+
+
+
+
+
+
+#### Peck's Skipper (Polites peckius)
+.ve-media wc:Peck%27s_Skipper_-_Polites_peckius,_Meadowlark_Gardens,_Vienna,_Virginia.jpg right
+
+Peck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's Skipper
+
+**Image:** [Peck's Skipper – *Polites peckius*, Meadowlark Gardens, Vienna, Virginia](https://commons.wikimedia.org/wiki/File:Peck%27s_Skipper_-_Polites_peckius,_Meadowlark_Gardens,_Vienna,_Virginia.jpg)  
+*© Katja Schulz, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
+
+
+
+#### Eastern Tailed-Blue (*Cupido comyntas*)
+
+.ve-media wc:Eastern_Tailed-Blue_-_Flickr_-_treegrow.jpg right width=75%
+
+Eastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-Blue
+
+.ve-media wc:Eastern_Tailed-Blue_-_Cupido_comyntas_%E2%99%82.jpg right width=75%
+
+
+
+
+
+
+**Top image:** [Eastern Tailed-Blue – Flickr – treegrow.jpg](https://commons.wikimedia.org/wiki/File:Eastern_Tailed-Blue_-_Flickr_-_treegrow.jpg)  
+*© treegrow, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
+
+**Bottom image:** [Eastern Tailed-Blue – Cupido comyntas ♂](https://commons.wikimedia.org/wiki/File:Eastern_Tailed-Blue_-_Cupido_comyntas_%E2%99%82.jpg)  
+*© Judy Gallagher, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
+
+
+
+
+#### Cabbage White (Pieris rapae)
+.ve-media wc:Pieris_brassicae_-_Large_Cabbage_White_-_01.jpg right
+
+Cabbage WhiteCabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White 
+
+**Image:** [Pieris brassicae – Large Cabbage White](https://commons.wikimedia.org/wiki/File:Pieris_brassicae_-_Large_Cabbage_White_-_02.jpg)  
+*© Jelena Stankovic, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
+
+
+
+
+
+
+#### Zabulon Skipper (Lon zabulon)
+.ve-media wc:Zabulon_skipper_in_Central_Park_(25446).jpg right
+
+ZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulon
+
+
+**Image:** [Zabulon Skipper in Central Park](https://commons.wikimedia.org/wiki/File:Zabulon_skipper_in_Central_Park_(25446).jpg)  
+*© Rhododendrites, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
+
+
+
+
+
+### Bibliography
+SOURCES
