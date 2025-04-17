@@ -9,7 +9,7 @@ This visual essay builds upon my [Data Essay](https://nadavgiladmuth.github.io/D
 Eastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger Swallowtail
 
 **Image:** [Eastern Tiger Swallowtail (Papilio glaucus)](https://commons.wikimedia.org/wiki/File:Eastern_Tiger_Swallowtail_(Papilio_glaucus)_(37577909806).jpg)  
-*© Dan Mullen, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
+*Dan Mullen, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
 
 
 
@@ -24,7 +24,7 @@ Eastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEaste
 Monarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch Butterfly
 
 **Image:** [Monarch In May](https://commons.wikimedia.org/wiki/File:Monarch_In_May.jpg)  
-*© David Goehring, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
+*David Goehring, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
 
 
 
@@ -37,7 +37,7 @@ Monarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch Butt
 Peck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's Skipper
 
 **Image:** [Peck's Skipper – *Polites peckius*, Meadowlark Gardens, Vienna, Virginia](https://commons.wikimedia.org/wiki/File:Peck%27s_Skipper_-_Polites_peckius,_Meadowlark_Gardens,_Vienna,_Virginia.jpg)  
-*© Katja Schulz, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
+*Katja Schulz, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
 
 
 
@@ -55,10 +55,10 @@ Eastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEast
 
 
 **Top image:** [Eastern Tailed-Blue – Flickr – treegrow.jpg](https://commons.wikimedia.org/wiki/File:Eastern_Tailed-Blue_-_Flickr_-_treegrow.jpg)  
-*© treegrow, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
+*treegrow, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
 
 **Bottom image:** [Eastern Tailed-Blue – Cupido comyntas ♂](https://commons.wikimedia.org/wiki/File:Eastern_Tailed-Blue_-_Cupido_comyntas_%E2%99%82.jpg)  
-*© Judy Gallagher, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
+*Judy Gallagher, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
 
 
 
@@ -69,7 +69,7 @@ Eastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEast
 Cabbage WhiteCabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White 
 
 **Image:** [Pieris brassicae – Large Cabbage White](https://commons.wikimedia.org/wiki/File:Pieris_brassicae_-_Large_Cabbage_White_-_02.jpg)  
-*© Jelena Stankovic, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
+*Jelena Stankovic, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
 
 
 
@@ -83,7 +83,7 @@ ZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZab
 
 
 **Image:** [Zabulon Skipper in Central Park](https://commons.wikimedia.org/wiki/File:Zabulon_skipper_in_Central_Park_(25446).jpg)  
-*© Rhododendrites, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
+*Rhododendrites, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
 
 
 
