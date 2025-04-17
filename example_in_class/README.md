@@ -36,7 +36,7 @@ Monarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch Butt
 
 Peck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's Skipper
 
-**Image:** [Peck's Skipper – *Polites peckius*, Meadowlark Gardens, Vienna, Virginia](https://commons.wikimedia.org/wiki/File:Peck%27s_Skipper_-_Polites_peckius,_Meadowlark_Gardens,_Vienna,_Virginia.jpg)  
+**Image:** [Peck's Skipper – Polites peckius, Meadowlark Gardens, Vienna, Virginia](https://commons.wikimedia.org/wiki/File:Peck%27s_Skipper_-_Polites_peckius,_Meadowlark_Gardens,_Vienna,_Virginia.jpg)  
 *Katja Schulz, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
 
 
