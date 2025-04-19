@@ -8,11 +8,11 @@ For this visual essay, I am building off my [Data Essay project](https://nadavgi
 
 #### Eastern Tiger Swallowtail (Papilio glaucus)
 
-.ve-media wc:Eastern_Tiger_Swallowtail_(Papilio_glaucus)_(37577909806).jpg right width=55%
+.ve-media wc:Eastern_Tiger_Swallowtail_(Papilio_glaucus)_(37577909806).jpg right width=52%
 
 Eastern Tiger Swallowtails are quite prevalent across eastern North America, appearing from spring through early fall. They have a comparatively large wingspan of 3.5–5.5 inches and are often spotted fluttering near forest edges and waterways. This species feeds on nectar from a variety of flowers and uses trees like tulip poplar as host plants. Some females can be yellow or a rare black “dark morph,” which mimics toxic species for protection.
 
-.ve-media wc:Female_Eastern_Tiger_Swallowtail,_Black_Morph_(9599998766).jpg right width=55%
+.ve-media wc:Female_Eastern_Tiger_Swallowtail,_Black_Morph_(9599998766).jpg right width=52%
 
 
 **Top Image:** [Eastern Tiger Swallowtail (Papilio glaucus)](https://commons.wikimedia.org/wiki/File:Eastern_Tiger_Swallowtail_(Papilio_glaucus)_(37577909806).jpg)  
