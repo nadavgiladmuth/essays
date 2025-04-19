@@ -10,7 +10,7 @@ For this visual essay, I am building off my [Data Essay project](https://nadavgi
 
 .ve-media wc:Eastern_Tiger_Swallowtail_(Papilio_glaucus)_(37577909806).jpg right
 
-Eastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger Swallowtail
+Eastern Tiger Swallowtails are quite prevalent across eastern North America, appearing from spring through early fall. They have a comparatively large wingspan of 3.5–5.5 inches and are often spotted fluttering near forest edges and waterways. This species feeds on nectar from a variety of flowers and uses trees like tulip poplar as host plants. Some females can be yellow or a rare black “dark morph,” which mimics toxic species for protection.
 
 **Image:** [Eastern Tiger Swallowtail (Papilio glaucus)](https://commons.wikimedia.org/wiki/File:Eastern_Tiger_Swallowtail_(Papilio_glaucus)_(37577909806).jpg)  
 *Dan Mullen, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
@@ -25,7 +25,7 @@ Eastern Tiger SwallowtailEastern Tiger SwallowtailEastern Tiger SwallowtailEaste
 
 .ve-media wc:Monarch_In_May.jpg right
 
-Monarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch Butterfly
+Seen from late spring to early fall in Delaware County, Monarchs have a wingspan of 3.5–4 inches and are easily identified by their iconic orange and black pattern. They breed exclusively on milkweed, which provides essential toxins for defense and keeps them safe from being a bird’s next meal. These butterflies migrate thousands of miles to overwinter in Mexico and are actually among the few insect species known to complete a two-way migration like birds!
 
 **Image:** [Monarch In May](https://commons.wikimedia.org/wiki/File:Monarch_In_May.jpg)  
 *David Goehring, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
@@ -38,7 +38,7 @@ Monarch ButterflyMonarch ButterflyMonarch ButterflyMonarch ButterflyMonarch Butt
 #### Peck's Skipper (Polites peckius)
 .ve-media wc:Peck%27s_Skipper_-_Polites_peckius,_Meadowlark_Gardens,_Vienna,_Virginia.jpg right
 
-Peck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's Skipper
+Peck’s Skippers are typically active from late spring through summer and have a smaller wingspan of 1–1.25 inches. They are most commonly seen in grassy meadows, roadsides, and lawns. Their quick, low flight pattern makes them tricky to spot, by predators and naturalists alike! Peck’s Skippers also display a unique basking behavior, often resting with their forewings and hindwings held at different angles!
 
 **Image:** [Peck's Skipper – Polites peckius, Meadowlark Gardens, Vienna, Virginia](https://commons.wikimedia.org/wiki/File:Peck%27s_Skipper_-_Polites_peckius,_Meadowlark_Gardens,_Vienna,_Virginia.jpg)  
 *Katja Schulz, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
@@ -47,11 +47,11 @@ Peck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's SkipperPeck's Ski
 
 #### Eastern Tailed-Blue (*Cupido comyntas*)
 
-.ve-media wc:Eastern_Tailed-Blue_-_Flickr_-_treegrow.jpg right width=75%
+.ve-media wc:Eastern_Tailed-Blue_-_Flickr_-_treegrow.jpg right width=60%
 
-Eastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-Blue
+The Eastern Tailed-Blue is found from April through October in open habitats including fields and lawn edges. With a wingspan of just 0.75–1 inch, these little guys are extremely difficult to spot, let alone snap a photo of! This species gets its name from the tiny tail-like extensions on its hindwings which are often used to confuse predators into attacking the wrong end of the butterfly, allowing it to escape!
 
-.ve-media wc:Eastern_Tailed-Blue_-_Cupido_comyntas_%E2%99%82.jpg right width=75%
+.ve-media wc:Eastern_Tailed-Blue_-_Cupido_comyntas_%E2%99%82.jpg right width=60%
 
 
 
@@ -70,7 +70,7 @@ Eastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEastern Tailed-BlueEast
 #### Cabbage White (Pieris rapae)
 .ve-media wc:Pieris_brassicae_-_Large_Cabbage_White_-_01.jpg right
 
-Cabbage WhiteCabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White Cabbage White 
+Another iconic species, the Cabbage White is present nearly year-round in the Northeast. With a 1.25–2 inch wingspan, the Cabbage White thrives in both urban and natural spaces. Introduced from Europe in the 19th century, it is now one of the most common butterflies in North America. It lays eggs on cabbage and mustard family plants, hence its name. To determine its sex, look for two black spots on the upper side of its forewings for females, and only one black spot for males!
 
 **Image:** [Pieris brassicae – Large Cabbage White](https://commons.wikimedia.org/wiki/File:Pieris_brassicae_-_Large_Cabbage_White_-_02.jpg)  
 *Jelena Stankovic, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
@@ -83,8 +83,7 @@ Cabbage WhiteCabbage White Cabbage White Cabbage White Cabbage White Cabbage Whi
 #### Zabulon Skipper (Lon zabulon)
 .ve-media wc:Zabulon_skipper_in_Central_Park_(25446).jpg right
 
-ZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulonZabulon
-
+The Zabulon Skipper favors moist habitats and grasses and can typically be observed around woodland edges, meadows, and shaded trails. With a wingspan of 1–1.5 inches, Zabulon Skippers are active from spring through fall. The Zabulon skipper is often mistaken for the Hobomok Skipper, as they were once considered the same species before naturalists were able to distinguish minor details between the two!
 
 **Image:** [Zabulon Skipper in Central Park](https://commons.wikimedia.org/wiki/File:Zabulon_skipper_in_Central_Park_(25446).jpg)  
 *Rhododendrites, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
