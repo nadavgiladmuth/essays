@@ -50,11 +50,11 @@ Peck’s Skippers are typically active from late spring through summer and have 
 
 #### Eastern Tailed-Blue (*Cupido comyntas*)
 
-.ve-media wc:Eastern_Tailed-Blue_-_Flickr_-_treegrow.jpg right width=140%
+.ve-media wc:Eastern_Tailed-Blue_-_Flickr_-_treegrow.jpg right 
 
 The Eastern Tailed-Blue is found from April through October in open habitats including fields and lawn edges. With a wingspan of just 0.75–1 inch, these little guys are extremely difficult to spot, let alone snap a photo of! This species displays sexual dimorphism with males typically having a lighter blue coloration on the upperside of their wings while their female counterparts have a darker, almost charcoal coloring.This species gets its name from the tiny tail-like extensions on its hindwings which are often used to confuse predators into attacking the wrong end of the butterfly, allowing it to escape! 
 
-.ve-media wc:Eastern_Tailed-Blue_-_Cupido_comyntas_%E2%99%82.jpg right width=140%
+.ve-media wc:Eastern_Tailed-Blue_-_Cupido_comyntas_%E2%99%82.jpg right 
 
 
 
