@@ -18,7 +18,8 @@ Eastern Tiger Swallowtails are quite prevalent across eastern North America, app
 **Top Image:** [Eastern Tiger Swallowtail (Papilio glaucus)](https://commons.wikimedia.org/wiki/File:Eastern_Tiger_Swallowtail_(Papilio_glaucus)_(37577909806).jpg)  
 *Dan Mullen, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
 
-
+**Bottom Image:** [Female Eastern Tiger Swallowtail, Black Morph](https://commons.wikimedia.org/wiki/File:Female_Eastern_Tiger_Swallowtail,_Black_Morph_(9599998766).jpg)  
+*Shenandoah National Park from Virginia, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
 
 
 
@@ -96,4 +97,15 @@ The Zabulon Skipper favors moist habitats and grasses and can typically be obser
 
 
 ### Bibliography
-SOURCES
+
+iNaturalist. (n.d.). Danaus plexippus (Monarch). [https://www.inaturalist.org/taxa/48662-Danaus-plexippus](https://www.inaturalist.org/taxa/48662-Danaus-plexippus)
+
+iNaturalist. (n.d.). Papilio glaucus (Eastern Tiger Swallowtail). [https://www.inaturalist.org/taxa/60551-Papilio-glaucus](https://www.inaturalist.org/taxa/60551-Papilio-glaucus)
+
+iNaturalist. (n.d.). Lon zabulon (Zabulon Skipper). [https://www.inaturalist.org/taxa/1081329-Lon-zabulon](https://www.inaturalist.org/taxa/1081329-Lon-zabulon)
+
+iNaturalist. (n.d.). Cupido comyntas (Eastern Tailed-Blue). [https://www.inaturalist.org/taxa/122381-Cupido-comyntas](https://www.inaturalist.org/taxa/122381-Cupido-comyntas)
+
+iNaturalist. (n.d.). Pieris rapae (Cabbage White). [https://www.inaturalist.org/taxa/55626-Pieris-rapae](https://www.inaturalist.org/taxa/55626-Pieris-rapae)
+
+iNaturalist. (n.d.). Polites peckius (Peck’s Skipper). [https://www.inaturalist.org/taxa/133631-Polites-peckius](https://www.inaturalist.org/taxa/133631-Polites-peckius)
